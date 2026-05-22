@@ -20,7 +20,7 @@ const certificates = {
     validTill: "",
     status: "Verified",
     type: "Internship Completion Certificate",
-    duration: "160 Hours",
+    duration: "120 Hours",
     photo: "/photos/avi.jpeg",
     file: "/certificates/INT-2026-022(2).pdf",
   },
