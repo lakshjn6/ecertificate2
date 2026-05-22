@@ -22,7 +22,7 @@ const certificates = {
     type: "Internship Completion Certificate",
     duration: "160 Hours",
     photo: "/photos/avi.jpeg",
-    file: "/certificates/INT-2026-022.pdf",
+    file: "/certificates/INT-2026-022(2).pdf",
   },
   
 };
